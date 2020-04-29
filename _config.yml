@@ -14,9 +14,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://www.chrikri.org"
+url                      : "https://www.mibook.org"
 baseurl                  : ""
-repository               : "chrikri/gr"
+repository               : "mibook/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,7 +65,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://pedantic-poincare-6da650.netlify.app"
+  home             : "http://mibook.org/gr"
   bitbucket        :
   codepen          :
   dribbble         :
