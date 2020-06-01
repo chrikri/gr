@@ -1,7 +1,7 @@
 ---
 author: chrikri
 title: "Douglas Engelbart"
-image_url: /images/.jpg
+image_url: /images/engelbart.jpeg
 caption: "Η αξιοποίηση της συλλογικής νοημοσύνης, που διευκολύνεται από διαδραστικούς υπολογιστές, έγινε η αποστολή της ζωής του Douglas Engelbart σε μια εποχή κατά την οποία οι υπολογιστές θεωρούνταν ως αριθμητικά εργαλεία."
 categories:
   - biography
