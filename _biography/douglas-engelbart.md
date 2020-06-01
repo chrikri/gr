@@ -16,3 +16,7 @@ gallery:
   - image_url: /images/engelbart.jpeg
     caption: "Το 1968, ο Ένγκελμπαρτ παρουσίασε ένα συνεργατικό σύστημα υπολογιστών σε πραγματικό χρόνο, γνωστό ως NLS (oN-Line System)"
 ---
+
+{% include_relative bio-engelbart.md %}
+
+{% include slides.html caption="Εικόνες για την βιογραφία του Douglas Engelbart" %}
