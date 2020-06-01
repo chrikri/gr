@@ -16,3 +16,7 @@ gallery:
   - image_url: /images/Grace_Hopper_and_UNIVAC.jpg
     caption: "Η Hopper συμμετείχε στη δημιουργία του UNIVAC, του πρώτου ηλεκτρονικού ηλεκτρονικού υπολογιστή."
 ---
+
+{% include_relative bio-hopper.md %}
+
+{% include slides.html caption="Εικόνες για την βιογραφία του Grace Hopper" %}
